@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on SENAI Institute of Technology
 - 🌱 I’m currently learning Multivariate Data Analysis
 - 👯 I’m looking to collaborate on teaching
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about R, Python, Django, Machine Learning and Power BI
 - ⚡ Fun fact: very curious!
 
